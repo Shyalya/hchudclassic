@@ -1,0 +1,13 @@
+## Interface: 11500
+## Title: HardcoreHUD
+## Notes: Minimal Hardcore-friendly HUD with warnings and utilities
+## Author: You
+## Version: 0.1.0
+## SavedVariables: HardcoreHUDDB
+CompatClassic.lua
+Core.lua
+Bars.lua
+Combat.lua
+Utilities.lua
+Options.lua
+Zones.lua
